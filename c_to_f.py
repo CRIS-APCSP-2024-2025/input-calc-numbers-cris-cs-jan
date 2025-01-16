@@ -12,7 +12,7 @@ cel_str = input('Enter a Celcius temperature as a float: ')
 # convert string to float 
 cel = float(cel_str)
 
-# convert celcius to fahrenheit using this formula:
+# convert celsius to fahrenheit using this formula:
 fahrenheit = (cel * 1.8) + 32
 
 # print results
